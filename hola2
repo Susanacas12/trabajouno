@@ -1,0 +1,24 @@
+
+}
+
+.boton1{
+	width: 80px;
+	height: 50px;
+}
+
+.boton1:hover{
+	width: 90px;
+	height: 60px;
+
+}
+
+.boton2{
+	width: 80px;
+	height: 50px;
+}
+
+.boton2:hover{
+	width: 90px;
+	height: 60px;
+
+}
